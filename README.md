@@ -4,8 +4,8 @@ This is a CLI Trivia Game I've created for a school project using JavaScript.
 - To open the game use `npm start`.
 - User should be directed to a Main Menu that includes options to Start Game, See Stats, Reset Stats and Quit.
 - The user will be given 10 seconds to answer each question. After each question the timer should reset back to 10. A timer will appear in yellow text.
-- If the answer is correct the word "Correct!" should appear in green text.
-- If the answer is incorrect the word "Incorrect!" should appear in red text.
+- If the answer is correct the text "Correct!" should appear in green text.
+- If the answer is incorrect the text "Incorrect!" should appear in red text.
 - If the user doesn't answer within the time limit then a message "Opps! Out of time!" should appear in red text.
 - After the user completes the game a message "You've completed the game!" and be giben the option to return to the main menu.
 - Afterwards user should be able to navigate to See Stats and ui should display "Correct: #" in green text, "Incorrect: #", and "Unanswered" both in red text.
